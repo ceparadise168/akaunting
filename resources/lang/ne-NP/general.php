@@ -104,7 +104,10 @@ return [
     'from'                  => 'बाट',
     'to'                    => 'लाई',
     'print'                 => 'प्रिन्ट',
+    'download_pdf'          => 'PDF डाउनलोड गर्नुहोस्',
+    'customize'             => 'अनुकूलन गर्नुहोस्',
     'search'                => 'खोज्नुहोस्',
+    'search_text'           => 'पाठ / शब्द खोजी गर्नुहोस्',
     'search_placeholder'    => 'खोज्न टाइप गर्नुहोस',
     'filter'                => 'फिल्टर',
     'help'                  => 'सहायता',
@@ -152,6 +155,11 @@ return [
     'no_matching_data'      => 'मिल्ने डाटा छैन',
     'clear_cache'           => 'क्यास खालि गर्नुहोस्',
     'go_to_dashboard'       => 'ड्यासबोर्डमा जानुहोस्',
+    'is'                    => 'हो',
+    'isnot'                 => 'होइन', 
+    'recurring_and_more'    => 'दोहोरिने र थप ..',
+    'due_on'                => 'बाँकी',
+    'amount_due'            => 'रकम बक्यौता/बाँकी रकम',
 
     'card' => [
         'name'                  => 'कार्डमा नाम',
@@ -179,6 +187,13 @@ return [
         ],
         'add_new'           => 'नयाँ :field थप्नुहोस्',
         'no_file_selected'  => 'कुनै फाईल छानिएन...',
+    ],
+
+    'placeholder' => [
+        'search'            => 'खोज्न टाइप गर्नुहोस',
+        'search_and_filter' => 'खोज्नु वा परिणामलाइ फिल्टर गर्नु ..',
+        'contact_search'    => 'टाइप एउटा: नामको प्रकार',
+        'item_search'       => 'वस्तुको नाम टाइप गर्नुहोस्',
     ],
 
     'date_range' => [

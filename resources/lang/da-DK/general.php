@@ -104,7 +104,10 @@ return [
     'from'                  => 'Fra:',
     'to'                    => 'Til',
     'print'                 => 'Udskriv',
+    'download_pdf'          => 'Download PDF',
+    'customize'             => 'Tilpas',
     'search'                => 'Søg',
+    'search_text'           => 'Søg efter denne tekst',
     'search_placeholder'    => 'Skriv for at søge..',
     'filter'                => 'Filter',
     'help'                  => 'Hjælp!',
@@ -152,6 +155,11 @@ return [
     'no_matching_data'      => 'Ingen matchende data',
     'clear_cache'           => 'Rens Cache',
     'go_to_dashboard'       => 'Go til skrivebord',
+    'is'                    => 'er',
+    'isnot'                 => 'er ikke', 
+    'recurring_and_more'    => 'Tilbagevendende og mere..',
+    'due_on'                => 'Forfalder den',
+    'amount_due'            => 'Forfaldent beløb',
 
     'card' => [
         'name'                  => 'Navn på kort',
@@ -179,6 +187,13 @@ return [
         ],
         'add_new'           => 'Tilføj nyt :field',
         'no_file_selected'  => 'Ingen fil valgt...',
+    ],
+
+    'placeholder' => [
+        'search'            => 'Skriv for at søge..',
+        'search_and_filter' => 'Søg eller filtrer resultater..',
+        'contact_search'    => 'Indtast et :type navn',
+        'item_search'       => 'Indtast et varenavn',
     ],
 
     'date_range' => [
